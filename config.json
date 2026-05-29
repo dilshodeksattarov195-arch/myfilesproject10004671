@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "useruave",
+        "uuid": 2578392,
+        "checksum": "8i8a0e"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
